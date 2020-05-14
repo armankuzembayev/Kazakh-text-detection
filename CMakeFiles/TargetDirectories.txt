@@ -1,0 +1,3 @@
+/home/arman/opencv_project/CMakeFiles/edit_cache.dir
+/home/arman/opencv_project/CMakeFiles/rebuild_cache.dir
+/home/arman/opencv_project/CMakeFiles/proj.dir

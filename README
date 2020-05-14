@@ -1,0 +1,10 @@
+Prerequisites: 
+install opencv (from source)
+install tesseract (from source)
+install googletrans library
+
+Usage:
+cmake .
+make
+./proj
+python3 tr.py
